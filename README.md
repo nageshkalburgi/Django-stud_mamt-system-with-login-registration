@@ -1,0 +1,1 @@
+# Django-stud_mamt-system-with-login-registration
